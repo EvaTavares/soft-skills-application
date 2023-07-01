@@ -53,6 +53,14 @@ function App() {
                 Linkedin
               </a>
             </button>
+            <button className="soft-skills">
+              <a
+                href="https://www.linkedin.com/in/jonas-ag-silva/"
+                target="_blank"
+              >
+                Soft Skills
+              </a>
+            </button>
             <button className="github">
               <a href="https://github.com/EvaTavares" target="_blank">
                 GitHub
@@ -71,6 +79,14 @@ function App() {
                 Linkedin
               </a>
             </button>
+            <button className="soft-skills">
+              <a
+                href="https://www.linkedin.com/in/jonas-ag-silva/"
+                target="_blank"
+              >
+                Soft Skills
+              </a>
+            </button>
             <button className="github">
               <a href="https://github.com/jonas-amilton" target="_blank">
                 GitHub
@@ -84,6 +100,14 @@ function App() {
             <button className="linkedin">
               <a href="#" target="_blank">
                 Linkedin
+              </a>
+            </button>
+            <button className="soft-skills">
+              <a
+                href="https://www.linkedin.com/in/jonas-ag-silva/"
+                target="_blank"
+              >
+                Soft Skills
               </a>
             </button>
             <button className="github">
@@ -101,6 +125,14 @@ function App() {
                 Linkedin
               </a>
             </button>
+            <button className="soft-skills">
+              <a
+                href="https://www.linkedin.com/in/jonas-ag-silva/"
+                target="_blank"
+              >
+                Soft Skills
+              </a>
+            </button>
             <button className="github">
               <a href="#" target="_blank">
                 GitHub
@@ -114,6 +146,14 @@ function App() {
             <button className="linkedin">
               <a href="#" target="_blank">
                 Linkedin
+              </a>
+            </button>
+            <button className="soft-skills">
+              <a
+                href="https://www.linkedin.com/in/jonas-ag-silva/"
+                target="_blank"
+              >
+                Soft Skills
               </a>
             </button>
             <button className="github">
@@ -131,6 +171,14 @@ function App() {
                 Linkedin
               </a>
             </button>
+            <button className="soft-skills">
+              <a
+                href="https://www.linkedin.com/in/jonas-ag-silva/"
+                target="_blank"
+              >
+                Soft Skills
+              </a>
+            </button>
             <button className="github">
               <a href="#" target="_blank">
                 GitHub
@@ -144,6 +192,14 @@ function App() {
             <button className="linkedin">
               <a href="#" target="_blank">
                 Linkedin
+              </a>
+            </button>
+            <button className="soft-skills">
+              <a
+                href="https://www.linkedin.com/in/jonas-ag-silva/"
+                target="_blank"
+              >
+                Soft Skills
               </a>
             </button>
             <button className="github">

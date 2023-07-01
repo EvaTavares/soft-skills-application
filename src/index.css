@@ -197,7 +197,8 @@ a {
   color: white;
 }
 
-.linkedin {
+.linkedin,
+.soft-skills {
   width: 25%;
   height: 80%;
   background-color: rgb(7, 43, 163);
@@ -215,7 +216,7 @@ a {
 .github {
   width: 25%;
   height: 80%;
-  background-color: black;
+  background-color: rgb(7, 43, 163);
   color: white;
   border-radius: 1em;
   text-decoration: none;
