@@ -54,10 +54,7 @@ function App() {
               </a>
             </button>
             <button className="soft-skills">
-              <a
-                href="https://www.linkedin.com/in/jonas-ag-silva/"
-                target="_blank"
-              >
+              <a href="#" target="_blank">
                 Soft Skills
               </a>
             </button>
@@ -103,10 +100,7 @@ function App() {
               </a>
             </button>
             <button className="soft-skills">
-              <a
-                href="https://www.linkedin.com/in/jonas-ag-silva/"
-                target="_blank"
-              >
+              <a href="#" target="_blank">
                 Soft Skills
               </a>
             </button>
@@ -126,10 +120,7 @@ function App() {
               </a>
             </button>
             <button className="soft-skills">
-              <a
-                href="https://www.linkedin.com/in/jonas-ag-silva/"
-                target="_blank"
-              >
+              <a href="#" target="_blank">
                 Soft Skills
               </a>
             </button>
@@ -149,10 +140,7 @@ function App() {
               </a>
             </button>
             <button className="soft-skills">
-              <a
-                href="https://www.linkedin.com/in/jonas-ag-silva/"
-                target="_blank"
-              >
+              <a href="#" target="_blank">
                 Soft Skills
               </a>
             </button>
@@ -172,10 +160,7 @@ function App() {
               </a>
             </button>
             <button className="soft-skills">
-              <a
-                href="https://www.linkedin.com/in/jonas-ag-silva/"
-                target="_blank"
-              >
+              <a href="#" target="_blank">
                 Soft Skills
               </a>
             </button>
@@ -195,10 +180,7 @@ function App() {
               </a>
             </button>
             <button className="soft-skills">
-              <a
-                href="https://www.linkedin.com/in/jonas-ag-silva/"
-                target="_blank"
-              >
+              <a href="#" target="_blank">
                 Soft Skills
               </a>
             </button>

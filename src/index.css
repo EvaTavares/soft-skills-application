@@ -57,9 +57,10 @@ html {
 body {
   font-family: -apple-system, BlinkMacSystemFont, sans-serif;
   font-size: 1.6rem;
-  background-image: url(../public/images/cyberpunk-6061251_1920.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
+  background-color: #000000;
+  /* background-image: url(../public/images/cyberpunk-6061251_1920.jpg); */
+  /* background-repeat: no-repeat; */
+  /* background-size: cover; */
 }
 
 .container {
