@@ -63,7 +63,7 @@ function Home() {
             </button>
 
             <button className="soft-skills">
-              <Link to={"/evaPage"} target="_blank">
+              <Link to={"/evaPage"} target="_self">
                 Soft Skills
               </Link>
             </button>
@@ -89,7 +89,7 @@ function Home() {
               </a>
             </button>
             <button className="soft-skills">
-              <Link to="/jonasPage" target="_blank">
+              <Link to="/jonasPage" target="_self">
                 Soft Skills
               </Link>
             </button>
