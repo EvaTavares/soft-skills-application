@@ -194,6 +194,11 @@ body {
   height: 4em;
 }
 
+.slide_img {
+  display: flex;
+  justify-content: center;
+}
+
 a {
   text-decoration: none;
   color: white;
