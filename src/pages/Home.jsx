@@ -13,8 +13,8 @@ import slide_image_2 from "../assets/images/jonas-avatar.png";
 import slide_image_3 from "../assets/images/img_3.jpg";
 import slide_image_4 from "../assets/images/img_4.jpg";
 import slide_image_5 from "../assets/images/img_5.jpg";
-import slide_image_6 from "../assets/images/img_6.jpg";
-import slide_image_7 from "../assets/images/img_7.jpg";
+
+import { Link } from "react-router-dom";
 
 function Home() {
   return (
@@ -45,28 +45,38 @@ function Home() {
         freeModeMomentum={true} // Adicione isto
         slideToClickedSlide={true} // Adicione isto
       >
+        {/* Eva */}
         <SwiperSlide>
-          <img src={slide_image_1} alt="slide_image" />
+          <div className="slide_img">
+            <img src={slide_image_1} alt="slide_image" />
+          </div>
+
           <div className="redes">
             <button className="linkedin">
-              <a href="https://www.linkedin.com/in/evatavares/" target="_blank">
+              <Link
+                to="https://www.linkedin.com/in/evatavares/"
+                target="_blank"
+              >
                 Linkedin
-              </a>
+              </Link>
             </button>
             <button className="soft-skills">
-              <a href="#" target="_blank">
+              <Link to="/evaPage" target="_blank">
                 Soft Skills
-              </a>
+              </Link>
             </button>
             <button className="github">
-              <a href="https://github.com/EvaTavares" target="_blank">
+              <Link to="https://github.com/EvaTavares" target="_blank">
                 GitHub
-              </a>
+              </Link>
             </button>
           </div>
         </SwiperSlide>
+        {/* Jonas */}
         <SwiperSlide>
-          <img src={slide_image_2} alt="slide_image" />
+          <div className="slide_img">
+            <img src={slide_image_2} alt="slide_image" />
+          </div>
           <div className="redes">
             <button className="linkedin">
               <a
@@ -77,9 +87,9 @@ function Home() {
               </a>
             </button>
             <button className="soft-skills">
-              <a href="#" target="_blank">
+              <Link to="/jonasPage" target="_blank">
                 Soft Skills
-              </a>
+              </Link>
             </button>
             <button className="github">
               <a href="https://github.com/jonas-amilton" target="_blank">
@@ -88,88 +98,63 @@ function Home() {
             </button>
           </div>
         </SwiperSlide>
+        {/* Roberto */}
         <SwiperSlide>
-          <img src={slide_image_3} alt="slide_image" />
+          <div className="slide_img">
+            <img src={slide_image_3} alt="slide_image" />
+          </div>
           <div className="redes">
             <button className="linkedin">
-              <a href="#" target="_blank">
+              <a
+                href="https://www.linkedin.com/in/roberto-carvalho-aa8143249/"
+                target="_blank"
+              >
                 Linkedin
               </a>
             </button>
             <button className="soft-skills">
-              <a href="#" target="_blank">
+              <Link to="/robertoPage" target="_blank">
                 Soft Skills
-              </a>
+              </Link>
             </button>
             <button className="github">
-              <a href="#" target="_blank">
+              <a href="https://github.com/Roberto1501" target="_blank">
                 GitHub
               </a>
             </button>
           </div>
         </SwiperSlide>
+        {/* Marsel */}
         <SwiperSlide>
-          <img src={slide_image_4} alt="slide_image" />
+          <div className="slide_img">
+            <img src={slide_image_4} alt="slide_image" />
+          </div>
           <div className="redes">
             <button className="linkedin">
-              <a href="#" target="_blank">
+              <a
+                href="https://www.linkedin.com/in/marseljr-dev/"
+                target="_blank"
+              >
                 Linkedin
               </a>
             </button>
             <button className="soft-skills">
-              <a href="#" target="_blank">
+              <Link to="/marselPage" target="_blank">
                 Soft Skills
-              </a>
+              </Link>
             </button>
             <button className="github">
-              <a href="#" target="_blank">
+              <a href="https://github.com/Marseljrdev" target="_blank">
                 GitHub
               </a>
             </button>
           </div>
         </SwiperSlide>
+        {/* Coutinho */}
         <SwiperSlide>
-          <img src={slide_image_5} alt="slide_image" />
-          <div className="redes">
-            <button className="linkedin">
-              <a href="#" target="_blank">
-                Linkedin
-              </a>
-            </button>
-            <button className="soft-skills">
-              <a href="#" target="_blank">
-                Soft Skills
-              </a>
-            </button>
-            <button className="github">
-              <a href="#" target="_blank">
-                GitHub
-              </a>
-            </button>
+          <div className="slide_img">
+            <img src={slide_image_5} alt="slide_image" />
           </div>
-        </SwiperSlide>
-        <SwiperSlide>
-          <img src={slide_image_6} alt="slide_image" />
-          <div className="redes">
-            <button className="linkedin">
-              <a href="#" target="_blank">
-                Linkedin
-              </a>
-            </button>
-            <button className="soft-skills">
-              <a href="#" target="_blank">
-                Soft Skills
-              </a>
-            </button>
-            <button className="github">
-              <a href="#" target="_blank">
-                GitHub
-              </a>
-            </button>
-          </div>
-        </SwiperSlide>
-        <SwiperSlide>
-          <img src={slide_image_7} alt="slide_image" />
           <div className="redes">
             <button className="linkedin">
               <a href="#" target="_blank">
