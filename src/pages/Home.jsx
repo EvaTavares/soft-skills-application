@@ -15,6 +15,7 @@ import slide_image_4 from "../assets/images/img_4.jpg";
 import slide_image_5 from "../assets/images/img_5.jpg";
 
 import { Link } from "react-router-dom";
+import NavigationApp from "../components/NavigationApp";
 
 function Home() {
   return (
@@ -60,8 +61,9 @@ function Home() {
                 Linkedin
               </Link>
             </button>
+
             <button className="soft-skills">
-              <Link to="/evaPage" target="_blank">
+              <Link to={"/evaPage"} target="_blank">
                 Soft Skills
               </Link>
             </button>

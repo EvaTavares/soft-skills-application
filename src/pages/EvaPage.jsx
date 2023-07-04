@@ -1,5 +1,6 @@
 import React from "react";
 import evaimg from "../assets/images/eva-avatar.jpeg";
+import NavigationApp from "../components/NavigationApp";
 
 const EvaPage = () => {
   return (
@@ -22,6 +23,9 @@ const EvaPage = () => {
             <li className="text-skills">softs skills</li>
             <li className="text-skills">softs skills</li>
           </ol>
+          <button className="soft-skills">
+            <NavigationApp />
+          </button>
         </div>
       </div>
     </div>

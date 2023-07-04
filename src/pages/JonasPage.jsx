@@ -1,5 +1,6 @@
 import React from "react";
 import jonasImg from "../assets/images/jonas-avatar.jpeg";
+import NavigationApp from "../components/NavigationApp";
 
 const JonasPage = () => {
   return (
@@ -22,6 +23,9 @@ const JonasPage = () => {
             <li className="text-skills">softs skills</li>
             <li className="text-skills">softs skills</li>
           </ol>
+          <button className="soft-skills">
+            <NavigationApp />
+          </button>
         </div>
       </div>
     </div>
