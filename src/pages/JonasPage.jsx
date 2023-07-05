@@ -20,9 +20,10 @@ const JonasPage = () => {
         <div className="skills">
           <h1 className="heading">Jonas Silva</h1>
           <ol>
-            <li className="text-skills">softs skills</li>
-            <li className="text-skills">softs skills</li>
-            <li className="text-skills">softs skills</li>
+            <li className="text-skills">Resiliência</li>
+            <li className="text-skills">Gosto pela aprendizagem</li>
+            <li className="text-skills">Pensamento crítico</li>
+            <li className="text-skills">Trabalho em equipe</li>
           </ol>
           <button className="soft-skills">
             <AiOutlineArrowLeft />

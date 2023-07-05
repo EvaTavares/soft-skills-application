@@ -20,9 +20,10 @@ const MarselPage = () => {
         <div className="skills">
           <h1 className="heading">Marsel Brandão</h1>
           <ol>
-            <li className="text-skills">softs skills</li>
-            <li className="text-skills">softs skills</li>
-            <li className="text-skills">softs skills</li>
+            <li className="text-skills">Curiosidade</li>
+            <li className="text-skills">Perseverança</li>
+            <li className="text-skills">Introspectivo</li>
+            <li className="text-skills">Prudência</li>
           </ol>
           <button className="soft-skills">
             <AiOutlineArrowLeft />

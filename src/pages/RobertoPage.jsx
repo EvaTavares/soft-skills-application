@@ -23,6 +23,7 @@ const RobertoPage = () => {
             <li className="text-skills">softs skills</li>
             <li className="text-skills">softs skills</li>
             <li className="text-skills">softs skills</li>
+            <li className="text-skills">softs skills</li>
           </ol>
           <button className="soft-skills">
             <AiOutlineArrowLeft />
