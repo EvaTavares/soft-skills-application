@@ -1,7 +1,3 @@
-const routes = [
-  { label: "Home", url: "/" },
-  { label: "Eva Tavares", url: "/evaPage" },
-  { label: "Jonas Silva", url: "/jonasPage" },
-];
+const routes = [{ label: "Home", url: "/" }];
 
 export default routes;

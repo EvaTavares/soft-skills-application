@@ -1,6 +1,7 @@
 import React from "react";
 import jonasImg from "../assets/images/jonas-avatar.jpeg";
 import NavigationApp from "../components/NavigationApp";
+import { AiOutlineArrowLeft } from "react-icons/ai";
 
 const JonasPage = () => {
   return (
@@ -24,6 +25,7 @@ const JonasPage = () => {
             <li className="text-skills">softs skills</li>
           </ol>
           <button className="soft-skills">
+            <AiOutlineArrowLeft />
             <NavigationApp />
           </button>
         </div>

@@ -1,6 +1,7 @@
 import React from "react";
 import evaimg from "../assets/images/eva-avatar.jpeg";
 import NavigationApp from "../components/NavigationApp";
+import { AiOutlineArrowLeft } from "react-icons/ai";
 
 const EvaPage = () => {
   return (
@@ -24,6 +25,7 @@ const EvaPage = () => {
             <li className="text-skills">softs skills</li>
           </ol>
           <button className="soft-skills">
+            <AiOutlineArrowLeft />
             <NavigationApp />
           </button>
         </div>

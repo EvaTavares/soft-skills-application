@@ -8,7 +8,7 @@ function NavigationApp() {
       {routes.map((item) => {
         return (
           <>
-            <Link to={item.url}>{item.label}</Link>;
+            <Link to={item.url}>{item.label}</Link>
           </>
         );
       })}
