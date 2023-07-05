@@ -11,11 +11,9 @@ import { EffectCoverflow, Pagination, Navigation } from "swiper";
 import slide_image_1 from "../assets/images/eva-avatar.png";
 import slide_image_2 from "../assets/images/jonas-avatar.png";
 import slide_image_3 from "../assets/images/img_3.jpg";
-import slide_image_4 from "../assets/images/img_4.jpg";
-import slide_image_5 from "../assets/images/img_5.jpg";
+import slide_image_4 from "../assets/images/marsel-avatar.jpeg";
 
 import { Link } from "react-router-dom";
-import NavigationApp from "../components/NavigationApp";
 
 function Home() {
   return (
@@ -115,7 +113,7 @@ function Home() {
               </a>
             </button>
             <button className="soft-skills">
-              <Link to="/robertoPage" target="_blank">
+              <Link to="/robertoPage" target="_self">
                 Soft Skills
               </Link>
             </button>
@@ -141,35 +139,12 @@ function Home() {
               </a>
             </button>
             <button className="soft-skills">
-              <Link to="/marselPage" target="_blank">
+              <Link to="/marselPage" target="_self">
                 Soft Skills
               </Link>
             </button>
             <button className="github">
               <a href="https://github.com/Marseljrdev" target="_blank">
-                GitHub
-              </a>
-            </button>
-          </div>
-        </SwiperSlide>
-        {/* Coutinho */}
-        <SwiperSlide>
-          <div className="slide_img">
-            <img src={slide_image_5} alt="slide_image" />
-          </div>
-          <div className="redes">
-            <button className="linkedin">
-              <a href="#" target="_blank">
-                Linkedin
-              </a>
-            </button>
-            <button className="soft-skills">
-              <a href="#" target="_blank">
-                Soft Skills
-              </a>
-            </button>
-            <button className="github">
-              <a href="#" target="_blank">
                 GitHub
               </a>
             </button>
