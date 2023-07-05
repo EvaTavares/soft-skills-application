@@ -10,7 +10,7 @@ import { EffectCoverflow, Pagination, Navigation } from "swiper";
 
 import slide_image_1 from "../assets/images/eva-avatar.png";
 import slide_image_2 from "../assets/images/jonas-avatar.png";
-import slide_image_3 from "../assets/images/img_3.jpg";
+import slide_image_3 from "../assets/images/roberto-avatar.png";
 import slide_image_4 from "../assets/images/marsel-avatar.png";
 
 import { Link } from "react-router-dom";

@@ -1,5 +1,5 @@
 import React from "react";
-import rosa from "../assets/images/img_3.jpg";
+import roberto from "../assets/images/roberto.jpeg";
 import NavigationApp from "../components/NavigationApp";
 import { AiOutlineArrowLeft } from "react-icons/ai";
 
@@ -13,7 +13,7 @@ const RobertoPage = () => {
           <span></span>
           <span></span>
           <div className="centro">
-            <img className="img" src={rosa} />
+            <img className="img" src={roberto} />
           </div>
         </div>
 
