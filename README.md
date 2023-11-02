@@ -10,13 +10,13 @@ A aplicação foi desenvolvida com ReactJ, possui uma uma página principal que 
  <div >
  
  ### :computer: Visualização Desktop 
- ![desktop](./imagens/readme/desktop.png)
- ![desktop footer](./imagens/readme/desktop2.png)
+ ![desktop](./assets/telas/desktop1.png)
+ ![desktop](./assets/telas/desktop2.png)
 
  ###  :iphone: Visualização mobile
 
- ![desktop](./imagens/readme/mobile1.png)
- ![desktop](./imagens/readme/mobile2.png)
+ ![mobile](./assets/telas/mobile1.png)
+ ![mobile](./assets/telas/mobile2.png)
  </div>
 
 ## :books: Funcionalidades
