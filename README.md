@@ -7,6 +7,11 @@ Esse é o resultado da Atividade de Feedback do módulo de Orientação Profissi
 O objetivo dessa atividade era listar softskills como feedback entre os membros da equipe e utilizar os conhecimentos técnicos aprendidos no curso Start Full Stack Web Developer para ilustrar tudo isso.
 A aplicação foi desenvolvida com ReactJ, possui uma uma página principal que contém um carrosel de cards dinâmico.
 
+### Acesse a aplicação no link abaixo :arrow_down: :arrow_down:
+:arrow_right:[Link de acesso](https://portfolio-colegas-growdev.vercel.app/)
+
+---
+
  <div >
  
  ### :computer: Visualização Desktop 
