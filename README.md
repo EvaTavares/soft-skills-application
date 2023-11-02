@@ -25,7 +25,7 @@ A aplicação foi desenvolvida com ReactJ, possui uma uma página principal que 
  </div>
 
 ## :books: Funcionalidades
-* <b>Responsividade</b>: website totalmente responsivo.
+* <b>Responsividade</b>: website responsivo.
 * <b>Carrosel</b>: Slide de cards, onde cada card possui três botões e corresponde ao avatar de um membro da equipe. Cada botão te leva para uma página diferente, seja ela externa como o link para o Github e para o Linkedin ou interna utilizando rotas, 
 onde cada rota te direciona para uma tela com a lista de softskills de cada integrante do grupo.
 
